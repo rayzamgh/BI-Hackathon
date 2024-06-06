@@ -1,0 +1,11 @@
+{
+    "changepoint_prior_scale": 0.0180912359693023,
+    "daily_seasonality": false,
+    "growth": "linear",
+    "interval_width": 0.33221735935285823,
+    "seasonality_mode": "multiplicative",
+    "seasonality_prior_scale": 18.10304582140959,
+    "uncertainty_samples": 1000,
+    "weekly_seasonality": false,
+    "yearly_seasonality": false
+}

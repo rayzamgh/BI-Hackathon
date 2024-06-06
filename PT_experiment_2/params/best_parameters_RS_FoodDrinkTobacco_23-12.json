@@ -1,0 +1,7 @@
+{
+    "yearly_seasonality": false,
+    "weekly_seasonality": false,
+    "seasonality_mode": "multiplicative",
+    "n_lags": 6,
+    "daily_seasonality": false
+}
